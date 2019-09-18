@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<parkings>
+	<parking id="1">
+		<name>Jean Jaures</name>
+		<cars>
+			<car id="11" immat="VD334JK">
+				<model>Peugeot</model>
+				<color>Rouge</color>
+			</car>
+			<car id="23" immat="VFERSJK">
+				<model>Renault</model>
+				<color>Bleu</color>
+			</car>
+			<car id="465" immat="VH342JG">
+				<model>Ford</model>
+				<color>Rouge</color>
+			</car>
+			<car id="52" immat="DG4T2JK">
+				<model>Ford</model>
+				<color>Bleu</color>
+			</car>
+			<car id="85" immat="VD332JR">
+				<model>Peugeot</model>
+				<color>Rouge</color>
+			</car>
+		</cars>
+	</parking>
+	<parking id="2">
+		<name>Capitole</name>
+		<cars>
+			<car id="34" immat="VD334EK">
+				<model>Peugeot</model>
+				<color>Vert</color>
+			</car>
+			<car id="22" immat="VFERSAK">
+				<model>Fiat</model>
+				<color>Rouge</color>
+			</car>
+			<car id="624" immat="VH34HJG">
+				<model>Ford</model>
+				<color>Vert</color>
+			</car>
+			<car id="888" immat="VDADJR">
+				<model>Renault</model>
+				<color>Rouge</color>
+			</car>
+		</cars>
+	</parking>
+</parkings>

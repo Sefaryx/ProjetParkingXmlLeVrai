@@ -1,0 +1,40 @@
+{
+	"Parkings": [
+		{
+			"id": 1,
+			"name": "Jean Jaures",
+			"Cars": [
+				{
+					"id": 11,
+					"immat": "VDDD123",
+					"model": "peugeot",
+					"color": "red"
+				},
+				{
+					"id": 23,
+					"immat": "VFERSJK",
+					"model": "Renault",
+					"color": "Bleu"
+				}
+			]
+		},
+		{
+			"id": 2,
+			"name": "Capitole",
+			"Cars": [
+				{
+					"id": 11,
+					"immat": "VDDD123",
+					"model": "peugeot",
+					"color": "red"
+				},
+				{
+					"id": 23,
+					"immat": "VFERSJK",
+					"model": "Renault",
+					"color": "Bleu"
+				}
+			]
+		}
+	]
+}

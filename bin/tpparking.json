@@ -1,0 +1,50 @@
+{
+	"parkings": [
+		{
+			"parking": {
+				"id": 1,
+				"nom": "Capitole",
+				"cars": [
+					{
+						"id": 1,
+						"immat": "12556456",
+						"model": "Fiat"
+					},
+					{
+						"id": 1,
+						"immat": "12556456",
+						"model": "Fiat"
+					}
+				]
+			}
+		},
+		{
+			"parking": {
+				"id": 2,
+				"nom": "Jean Jaures",
+				"cars": [
+					{
+						"id": 1,
+						"immat": "grdvgyyyvz",
+						"model": "Peugeot"
+					},
+					{
+						"id": 1,
+						"immat": "1fds6456",
+						"model": "Ferrari"
+					},
+					{
+						"id": 1,
+						"immat": "grdvgy2yyvz",
+						"model": "Peugeot"
+					},
+					{
+						"id": 1,
+						"immat": "1fds64156",
+						"model": "Ferrari"
+					}
+				]
+			}
+		}
+	]
+}
